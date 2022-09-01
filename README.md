@@ -1,6 +1,6 @@
 ﻿# Whiteboarding
 
-... is something I hate. Sure its a bad "hot take", but its also an admission of difficulty: something I've found excruiating for a _loooong_ time. But I'm trying to confront it head-on. In order to overcome _ze imposter syndrome_, this is a repo aimed at providing transparent examples of constructive work.
+... is something I hate. Sure its a bad "hot take", but its also an admission of difficulty: something I've found excruiating for a _loooong_ time. But I'm trying to confront it head-on. In order to overcome _ze imposter syndrome_, this repo tracks the constructive steps I'm taking to get better
 
 ## What is this repo?
 
