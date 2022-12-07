@@ -1,3 +1,6 @@
+const sourceString = "abcde";
+const failString = "aec";
+const successString = "ace";
 const sourceArray = ["a", "b", "c", "d", "e"];
 const failArray = ["a", "e", "c"];
 // let dictionary = { a : 0, }
@@ -9,7 +12,7 @@ const failArray = ["a", "e", "c"];
 // const successArray = [a, c, d]
 // Expected Output: a, c, d
 
-const test = (sourceArray, failArray) => {
+const test = (sourceArray, failArray, failString, successString) => {
   let dictionary = {};
   let compositArray = [];
 
